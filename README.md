@@ -25,7 +25,6 @@ Hello guys! Its me, a Data Scientist specializing in machine learning, data anal
 I’m always up for new challenges, whether it’s tackling a new dataset or learning an advanced algorithm. In my free time, I explore data from different industries to discover unique patterns and insights. Data is everywhere – and I love unlocking its secrets!
 
 ## 📫 How to reach me:
-- Email: [bishakhad2024@gmail.com]
 - LinkedIn: [(https://www.linkedin.com/in/bishakha786/)]
 
 Feel free to explore my repositories, star your favorite projects, and connect with me if you want to collaborate! 😊
