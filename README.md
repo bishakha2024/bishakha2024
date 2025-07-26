@@ -78,13 +78,14 @@ K.M.V College, Punjab, India — *Aug 2020 – Jun 2023*
 - Advanced SQL queries for analytics and reporting  
 - Dashboard storytelling with Tableau and Power BI  
 - Deepening understanding of time series analysis and feature engineering  
+- **Deep Learning fundamentals using TensorFlow and Keras** (CNNs, ANN, RNN)  
 - Business case studies involving marketing, supply chain, and finance datasets
 
 ## 🔥 Fun Fact:
 I enjoy solving Kaggle datasets and building real-world dashboards from scratch. Data is like a puzzle to me — I love connecting the dots to uncover hidden patterns and optimize business processes.
 
 ## 📫 How to Reach Me:
-📍 Toronto, ON M5V 3A6  
+📍 Toronto, ON M5V 3A6   
 📧 bishakha@georgebrown.ca  
 🔗 [LinkedIn](https://www.linkedin.com/in/bishakha786/)
 
