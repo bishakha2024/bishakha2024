@@ -1,69 +1,78 @@
 # Welcome to my GitHub! 👋
 
-Hey there! I’m Bishakha — an **aspiring Data Analyst** with a passion for transforming data into actionable insights. With a solid academic foundation and real-world internship experience, I specialize in using Python, SQL, Tableau, and Power BI to clean, analyze, and visualize data. My goal is to contribute to data-driven decision-making in business environments.
+Hey there! I’m Bishakha — an aspiring AI & Data Analytics professional and Mobile Application Developer passionate about building intelligent, user-focused digital solutions.
 
-I'm currently pursuing my post-graduate diploma in Applied AI Solutions Development at **George Brown College**, where I'm sharpening my analytical, statistical, and problem-solving skills to tackle real-world business challenges.
+With a strong foundation in Applied AI, Data Analytics, and Mobile Application Development, I enjoy combining data-driven insights with modern app experiences to solve real-world problems. My interests span across machine learning, computer vision, business intelligence, and mobile technologies, allowing me to create solutions that are both technically powerful and user-friendly.
+
+I specialize in Python, SQL, Tableau, Power BI, Kotlin, Swift, Firebase, and deep learning technologies. From developing machine learning models and interactive dashboards to building mobile applications with Firebase integration, I enjoy working on projects that connect AI with practical everyday applications.
+
+Currently, I’m pursuing postgraduate studies in Applied A.I. Solutions Development and Mobile Application Development at George Brown College, where I continue strengthening my skills in artificial intelligence, software development, cloud-based applications, and modern mobile technologies.
 
 ## 🎯 Objective:
-Detail-oriented and results-driven Data Analyst with hands-on experience in analyzing and visualizing data to support business decisions. I bring strong proficiency in data preprocessing, statistical modeling, SQL querying, and BI dashboard development. I’m passionate about continuous learning, cross-functional collaboration, and solving meaningful problems with data.
+Detail-oriented and results-driven AI, Data Analytics, and Mobile Application Development student with hands-on experience in machine learning, computer vision, data visualization, and mobile app development. Skilled in Python, SQL, Kotlin, Swift, Firebase, Tableau, and deep learning frameworks, with a passion for building intelligent, scalable, and user-centered applications. I enjoy combining AI and mobile technologies to create impactful digital experiences that solve real-world challenges.
 
 ## 🚀 What I Do:
-- Perform **data cleaning, wrangling, and exploratory data analysis (EDA)** on structured/unstructured data.
-- Design **interactive dashboards** and **data visualizations** that deliver clear business insights.
-- Build predictive models using techniques like **K-Means clustering** and **logistic regression**.
-- Collaborate with cross-functional teams and document findings to support business processes.
-- Automate data reporting workflows to improve efficiency and reduce manual workload.
+- Perform data cleaning, wrangling, and exploratory data analysis.
+- Design interactive dashboards using Tableau and Power BI.
+- Build predictive models using machine learning techniques.
+- Develop beginner-friendly mobile applications using Kotlin and Swift.
+- Work with Firebase, authentication, CRUD operations, and app data storage.
+- Create clean UI layouts and connect mobile apps with real-world features.
 
 ## 🧰 Technologies I Use:
-- **Languages**: Python (pandas, matplotlib, seaborn), SQL, R  
-- **BI & Visualization Tools**: Tableau, Power BI, Excel (PivotTables, VLOOKUP)  
-- **Databases**: MySQL, PostgreSQL, SQL Server  
-- **Tools**: Jupyter Notebook, VS Code, Pycharm, Lucidchart, Microsoft Office Suite  
-- **Project Management**: JIRA, Confluence  
-- **Machine Learning Algorithms**: Logistic Regression, K-Means Clustering, Decision Trees  
+- Languages: Python, SQL, R, Kotlin, Swift, JavaScript
+- Mobile Development: Android Studio, Xcode, Firebase, Firestore, Google Maps API
+- BI & Visualization: Tableau, Power BI, Excel
+- Databases: MySQL, PostgreSQL, SQL Server, Firebase Firestore
+- Tools: Jupyter Notebook, VS Code, PyCharm, GitHub, Lucidchart
+- Machine Learning: Logistic Regression, K-Means Clustering, Decision Trees
 
+## 🌱 I’m Currently Learning:
+- Android app development using Kotlin
+- iOS app development using Swift
+- Firebase Authentication and Firestore CRUD
+- Mobile UI/UX design principles
+- Advanced SQL and dashboard storytelling
+- Deep Learning fundamentals using TensorFlow and Keras
+  
 ## 💼 Professional Experience:
-**Data Analyst Intern – Mehta Electronics, India**  
-*Jan 2024 – Nov 2024*  
-- Conducted data analysis on sales trends using SQL and Excel for decision-making.  
-- Developed process flow diagrams and business requirement documents to aid automation projects.  
-- Contributed to the implementation of an inventory tracking system, improving stock accuracy by 15%.  
-- Participated in cross-functional meetings to ensure on-time delivery and tracked performance metrics.
+
+### AI/Computer Vision Co-op – Kinectrics, Toronto, ON  
+*Sep 2025 – Dec 2025*  
+- Led the handling and evaluation of deep learning segmentation models including DeepLabV3, YOLOv8-Seg, SAM, CLIPSeg, and GroundingDINO for industrial safety applications.  
+- Managed PPE detection and classification tasks using computer vision and image segmentation pipelines.  
+- Conducted performance analysis using pixel accuracy, F1-score, mask quality, and boundary precision metrics.  
+- Identified and documented model limitations including hallucinations, over-segmentation, weak mask boundaries, and class inconsistencies.  
+- Coordinated AI model testing, experimentation, and technical documentation to support research and development activities.  
+- Collaborated with cross-functional teams to improve model evaluation workflows and reporting processes.  
+
 
 ## 📊 Projects:
 
-### Customer Segmentation with K-Means Clustering  
-**Role: Project Lead**  
-- Analyzed 5,000+ customer profiles and performed K-Means clustering to identify behavioral segments.  
-- Boosted targeted marketing ROI by 28% through data-driven segmentation.  
-- Visualized results using a Tableau dashboard for business stakeholders.
+### Diabetes Classification using Machine Learning | 2025
+- Built a supervised machine learning model to predict diabetes using the Pima Indians dataset with preprocessing, outlier removal, and SMOTE for class balancing.  
+- Applied and tuned multiple classifiers including SVM, Random Forest, and Logistic Regression using GridSearchCV, achieving an 83.33% F1-score with SVM.  
+- Performed feature selection using RFECV and removed low-impact features to improve model interpretability.  
+- Delivered findings through a technical report and presentation, highlighting Glucose, BMI, and Age as the most predictive features.  
 
-### Sales Performance Dashboard (SQL + Tableau)  
-**Role: Analyst & Visualizer**  
-- Analyzed 10,000+ sales records using SQL and uncovered underperforming regions.  
-- Designed a Tableau dashboard that led to a 12% increase in regional sales by guiding strategy realignment.  
-- Developed a pipeline to fix inconsistencies in regional sales data.
-
-### Churn Prediction Model  
-**Role: Lead Data Scientist**  
-- Built and evaluated a logistic regression model in Python using 15,000+ customer records.  
-- Achieved 82% accuracy and presented churn risk segments with Power BI.  
-- Suggested retention strategies that reduced projected churn by 10%.
-
-### Supply Chain Reporting Automation  
-**Role: Automation Lead**  
-- Integrated data from 3 supply chain systems and cleaned it for KPI analysis.  
-- Automated weekly logistics reporting, reducing time spent by 80%.  
-- Resolved redundancy by implementing a unique identifier logic.
+### Loan Eligibility Prediction for Dream Housing Finance | 2025
+- Developed a classification pipeline to predict loan approval using demographic and financial data, handling missing values and encoding categorical features.  
+- Trained and evaluated six machine learning models and optimized performance using GridSearchCV; Random Forest achieved the highest AUC score of 0.798.  
+- Identified Credit History, Applicant Income, and Loan Amount as the most important predictive features using Random Forest feature importance analysis.  
 
 ## 📚 Education:
 
-**Applied A.I. Solutions Development** (Postgraduate)  
-George Brown College, Toronto, ON — *Jan 2025 – Dec 2025*  
-GPA: 3.9  
+### Ontario Graduate Certificate — Mobile Application Development  
+George Brown College, Toronto, ON  
+*Expected Dec 2026*  
 
-**Bachelor of Computer Science**  
-K.M.V College, Punjab, India — *Aug 2020 – Jun 2023*
+### Ontario Graduate Certificate — Applied A.I. Solutions Development  
+George Brown College, Toronto, ON  
+*Dec 2025*  
+
+### Bachelor of Computer Science  
+Kanya Maha Vidyalaya, India  
+
 
 ## 📜 Certifications:
 - **IBM Enterprise Design Thinking Practitioner** – *April 2025*  
@@ -75,14 +84,17 @@ K.M.V College, Punjab, India — *Aug 2020 – Jun 2023*
 - Assisted in organizing the annual fair and answered inquiries on academic and student support.
 
 ## 🌱 I’m Currently Learning:
+- Android application development using Kotlin and Firebase  
+- Mobile UI/UX design principles and responsive app development  
+- Building CRUD-based mobile applications with Firestore and API integration  
 - Advanced SQL queries for analytics and reporting  
 - Dashboard storytelling with Tableau and Power BI  
 - Deepening understanding of time series analysis and feature engineering  
-- **Deep Learning fundamentals using TensorFlow and Keras** (CNNs, ANN, RNN)  
-- Business case studies involving marketing, supply chain, and finance datasets
+- Deep Learning fundamentals using TensorFlow and Keras (CNNs, ANN, RNN)  
+- Business case studies involving marketing, supply chain, and finance datasets  
 
 ## 🔥 Fun Fact:
-I enjoy solving Kaggle datasets and building real-world dashboards from scratch. Data is like a puzzle to me — I love connecting the dots to uncover hidden patterns and optimize business processes.
+I enjoy developing mobile applications, solving Kaggle datasets, and building real-world dashboards from scratch. Whether it’s creating user-friendly app experiences or uncovering hidden patterns in data, I enjoy turning ideas into practical digital solutions.
 
 ## 📫 How to Reach Me:
 📍 Toronto, ON M5V 3A6   
