@@ -1,6 +1,6 @@
 # Welcome to my GitHub! 👋
 
-Hey there! I’m Bishakha — an aspiring AI & Data Analytics professional and Mobile Application Developer passionate about building intelligent, user-focused digital solutions.
+Hey there! I’m Bishakha - an aspiring AI & Data Analytics professional and Mobile Application Developer passionate about building intelligent, user-focused digital solutions.
 
 With a strong foundation in Applied AI, Data Analytics, and Mobile Application Development, I enjoy combining data-driven insights with modern app experiences to solve real-world problems. My interests span across machine learning, computer vision, business intelligence, and mobile technologies, allowing me to create solutions that are both technically powerful and user-friendly.
 
