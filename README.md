@@ -84,14 +84,15 @@ Kanya Maha Vidyalaya, India
 - Assisted in organizing the annual fair and answered inquiries on academic and student support.
 
 ## 🌱 I’m Currently Learning:
-- Android application development using Kotlin and Firebase  
+- iOS application development using Swift  
 - Mobile UI/UX design principles and responsive app development  
-- Building CRUD-based mobile applications with Firestore and API integration  
+- Building scalable mobile applications with API integration and cloud services  
 - Advanced SQL queries for analytics and reporting  
 - Dashboard storytelling with Tableau and Power BI  
 - Deepening understanding of time series analysis and feature engineering  
 - Deep Learning fundamentals using TensorFlow and Keras (CNNs, ANN, RNN)  
 - Business case studies involving marketing, supply chain, and finance datasets  
+
 
 ## 🔥 Fun Fact:
 I enjoy developing mobile applications, solving Kaggle datasets, and building real-world dashboards from scratch. Whether it’s creating user-friendly app experiences or uncovering hidden patterns in data, I enjoy turning ideas into practical digital solutions.
